@@ -45,7 +45,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/iris-dataset-analysis.git
+git clone https://github.com/NirmalSagarTigga/Iris-Data-Set-Analysis-Visualization-and-Prediction.git
 cd iris-dataset-analysis
 Run the Jupyter Notebook:
 
